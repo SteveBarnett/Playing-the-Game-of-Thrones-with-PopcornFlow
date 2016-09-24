@@ -1,1 +1,1 @@
-# Playing-the-Game-of-Thrones-with-PopcornFlow
+# Playing the Game of Thrones with PopcornFlow
