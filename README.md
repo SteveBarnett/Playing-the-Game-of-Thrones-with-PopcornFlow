@@ -21,7 +21,3 @@ Principles of PF
 * If change is hard, make it continuous.
 * Everyone has an opinion. A shared opinion is a fact.
 * It's not fail fast, fail often. It's learn fast, learn often.
-
-TODO: choose a season to set this in
-
-TODO: avoid copyright 😬. Gammon of Thrones? Game of Throngs? Game of Phones?
