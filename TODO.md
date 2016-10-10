@@ -1,14 +1,7 @@
-- choose a season to set this in
-- family resources prompts
-- problems prompts
-- how other teams choose things for you, GoT-style (things go wrong)
-    - when
-    - how
-- shout outs during
-- how to introduce the principles. one slide intro at each step of the popcorn?
-- investigate possibility of using [Fiasco](http://bullypulpitgames.com/games/fiasco/) ("A game of powerful amibtion and poor impulse control" :D ) for resolving actions. Or more? Each table could have all the families and use a Fiasco-like system to generate the outcomes.
-- make disaster A4 print outs?
-- need an inventory counter? some way to track resources used?
-- winner is one with most resources, because that means they did small experiments
-- emphasis focus on options and experiments.
-- big "change is hard, so make it continuous" poster?
+- **AF:** choose a season to set this in
+- **AF:** family resources prompts
+- **AF:** problems prompts
+- **SB:** how other teams choose things for you, GoT-style, using Fiasco as a base
+- **AF write up a one sentence thing for each letter of the acronym, SB to make the slides:** how to introduce the principles. one slide intro at each step of the popcorn?
+- **AF (we should try and keep this as simple as possible:** need an inventory counter? some way to track resources used?
+- **SB:** big "change is hard, so make it continuous" poster?
