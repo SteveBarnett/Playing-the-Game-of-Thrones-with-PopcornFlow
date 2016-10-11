@@ -2,7 +2,7 @@
 
 ## **O**ptions
 
-^ The power of options 
+^ The power of options
 
 ## **P**roblems (& Observations) → **O**ptions → **P**ossible Experiments
 
@@ -20,8 +20,9 @@ You do experiments
 
 # Set the scene
 
-* This is Season X
-* Recap story so far
+* This is Season 6
+* The families are: Targarayen, Stark, Lanisster, Martell, Greyjoy.
+* Recap of state / status of each family. One slide each.
 * Assign families. colour print out: family name, crest, and words. Goes on to poster by the table.
 
 ## Wall walk: resources
