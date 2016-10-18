@@ -1,0 +1,23 @@
+PopcornFlow
+Problem
+Everthing we do is about solving a problem.
+
+Options
+Options help explore and solve the problem.
+
+Possible experiments
+Promising options lead to a backlog of experiments
+
+Committed experiments
+Experiments that we commit to pursue have an action, reason, expectation and review date
+
+Ongoing
+Experiment in progress!
+
+Review
+What can we learn by comparing what we expected to happen to what actually happened?
+
+Next
+Based on what we learned what are we going to do next?
+
+PopcornFlow
