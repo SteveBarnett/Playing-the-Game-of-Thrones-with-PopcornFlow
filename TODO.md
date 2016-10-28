@@ -3,6 +3,5 @@
 - **SB:** how other teams choose things for you, GoT-style, using Fiasco as a base
 - **AF write up a one sentence thing for each letter of the acronym, SB to make the slides:** how to introduce the principles. one slide intro at each step of the popcorn?
 - **AF (we should try and keep this as simple as possible:** need an inventory counter? some way to track resources used?
-- **SB:** big "change is hard, so make it continuous" poster?
 - **AF:** one short sentence recap for each fam
 - **SB:** make slide for one short sentence recap for each fam
