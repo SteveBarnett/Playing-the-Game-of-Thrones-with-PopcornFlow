@@ -5,3 +5,4 @@
 - **AF (we should try and keep this as simple as possible:** need an inventory counter? some way to track resources used?
 - **AF:** one short sentence recap for each fam
 - **SB:** make slide for one short sentence recap for each fam
+- **SB:** turn workshop outline into slide deck
