@@ -1,6 +1,6 @@
 PopcornFlow
-Problem
-Everthing we do is about solving a problem.
+Problems
+Everything we do is about solving a problem.
 
 Options
 Options help explore and solve the problem.
@@ -19,5 +19,3 @@ What can we learn by comparing what we expected to happen to what actually happe
 
 Next
 Based on what we learned what are we going to do next?
-
-PopcornFlow
