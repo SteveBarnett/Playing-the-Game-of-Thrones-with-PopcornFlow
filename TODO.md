@@ -15,3 +15,4 @@
 - [ ] Print `houses.pdf` x 3, `house-sigils` folder x 2, `outcomes.pdf` x 4, `popcorn-flow-printable-for-wall.pdf` x 1
 - [ ] Add times to speaker notes
 - [ ] **AF:** Closing reality tie-in
+- [ ] **AF: Room setup
