@@ -6,7 +6,7 @@
 - [x] **AF:** write up a one sentence thing for each letter of the acronym
   - [x] **SB:** to make the slides
 - [ ] **AF (we should try and keep this as simple as possible):** need an inventory counter? some way to track resources used?
-- [ ] **AF:** one short sentence recap for each fam
+- [x] **AF:** one short sentence recap for each fam
   - [ ] **SB:** make slide for one short sentence recap for each fam
 - [x] **SB:** turn workshop outline into slide deck
 - [x] **SB:** make Popcorn Flow stages for wall, plus "you are here"
