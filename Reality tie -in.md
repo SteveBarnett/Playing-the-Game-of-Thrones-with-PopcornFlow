@@ -1,6 +1,6 @@
-Reality tie -in
+Reality tie-in
 
-We develop products. We build features. We follow a process. 
+We develop products. We build features. We follow a process.
 
 We don't know what the future holds.
 
@@ -12,7 +12,7 @@ It's not fail fast, fail often, it's learn fast, learn often.
 
 Glorious success?
 
-Delivered ontime. Great ROI. But was it the best option? How do you know?
+Delivered on time. Great ROI. But was it the best option? How do you know?
 
 If you are going to follow a plan
 
@@ -29,11 +29,3 @@ Rapid explorations and experiments
 Respond to change
 
 Change is hard, so let's make it continuous.
-
-
-
-
-
-
-
-
