@@ -289,11 +289,29 @@ Back to your table
 ### **Next**
 
 ### Generate more Options for same problem
-### Pick an option to work on<br>(can be an old one)
-### Commit to experiment
-### Generate the result
 
 ^ Move ":point_up: you are here"
+
+---
+
+### **Next**
+
+### Pick an option to work on<br>(can be an old one)
+
+---
+
+### **Next**
+
+### Commit to experiment
+
+---
+
+### **Next**
+
+### Generate the result
+
+^ Do it yourselves this time
+
 
 ---
 
