@@ -96,43 +96,47 @@ See popcorn-flow-poster-notes.md
 
 ---
 
-
 ![250%](img/house-sigils/Lannister.png)
 
 ^ House Lannister
-Cersei is now Queen atop the Iron Throne. Jamie witnesses the coronation but what will he do now? Tyrion serves as Hand of the Queen Daenerys Targaryen. The rest be dead
+- Cersei now Queen
+- Jamie witnesses coronation but now what?
+- Tyrion serves as Hand of the Queen
+- The rest be dead
 
 ---
-
 
 ![250%](img/house-sigils/Targaryen.png)
 
 ^ House Targaryen
-Daenerys has part of the Iron fleet carrying her, a Dothraki hoard, a troop of unsullied, 3 dragons and the Imp to Westeros. Is there a hitherto unknown nephew on the loose?
+- Daenerys on part of Iron fleet, Dothraki hoard, unsullied, 3 dragons, the Imp to Westeros.
+- hitherto unknown nephew on the loose?
 
 ---
-
 
 ![800%](img/house-sigils/Greyjoy.png)
 
 ^ House Greyjoy
-Yara and Theon have pledged allegiance to Daenerys Stormborn, providing her army with transport to Westeros. Euron Greyjoy is now King of the Iron Islands and building a new Iron fleet.
+- Yara and Theon pledged allegiance to Daenerys
+- Euron Greyjoy is King of the Iron Islands, building new Iron fleet.
 
 ---
-
 
 ![250%](img/house-sigils/Stark.png)
 
 ^ House Stark
-Jon Snow is crowned King of The North and while yet to be revealed is the son of Ned Stark's sister. Littlefinger wants Sansa to rule Westeros by his side. Arya has learned some killing skills, dispatching Walder Frey with a knife to the throat. Bran is the three-eyed raven and is starting to learn the extent of his powers.
+^ Jon Snow crowned King of The North (yet to be revealed: the son of Ned Stark's sister).
+- Littlefinger wants Sansa to rule Westeros by his side.
+- Arya has learned some killing skills, dispatching Walder Frey with a knife to the throat.
+- Bran is the three-eyed raven, starting to learn extent of his powers.
 
 ---
-
 
 ![800%](img/house-sigils/Martell.png)
 
 ^ House Martell
-Ellaria Sand and the Sandsnakes (Obara, Tyene and Nymeria) have assassinated Doran Martell and his son Trystane. Ellaria now rules Dorne and looks to be making an alliance with Houses Tyrell and Targaryen.
+- Ellaria Sand and the Sandsnakes (Obara, Tyene and Nymeria) assassinated Doran Martell and his son Trystane.
+- Ellaria now rules Dorne and looks to ally with Houses Tyrell and Targaryen.
 
 ---
 
