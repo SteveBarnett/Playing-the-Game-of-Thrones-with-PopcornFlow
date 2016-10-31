@@ -294,3 +294,12 @@ Back to your table
 ### Generate the result
 
 ^ Move ":point_up: you are here"
+
+---
+
+### **Faciliator feedback**
+
+## What's one thing we could do differently?
+
+![](img/austin.jpg)
+![](img/steve.jpg)
