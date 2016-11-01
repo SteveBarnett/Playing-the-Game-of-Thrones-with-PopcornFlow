@@ -294,29 +294,17 @@ Update your stickies
 
 ### **Next**
 
-### Generate more Options for same problem
+## (P)opcorn thyselves
 
-^ Move ":point_up: you are here"
+![](img/popcornflow-board-with-stickies.jpg)
 
----
-
-### **Next**
-
-### Pick an option to work on<br>(can be an old one)
-
----
-
-### **Next**
-
-### Commit to experiment
-
----
-
-### **Next**
-
-### Generate the result
-
-^ Do it yourselves this time
+^ 10m
+Move ":point_up: you are here"
+Back to your board, start at options
+Generate more options
+Pick one to work one (can be old one)
+Pick experiment
+Do own outcome
 
 ---
 
