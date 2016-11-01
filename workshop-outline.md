@@ -42,6 +42,9 @@ PopcornFlow posters go up
 ![](img/steve.jpg)
 ![](img/austin.jpg)
 
+^ 1m
+- where you work, what you do
+- fave character, who dies next
 
 ---
 
