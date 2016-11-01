@@ -9,6 +9,7 @@
 - [x] **AF:** one short sentence recap for each fam
   - [x] **SB:** make slide for one short sentence recap for each fam
   - [ ] **SB:** make handout of: house, words, recap, location, resources
+  - [ ] **AF:** what should go in location and resources for each house
 - [x] **SB:** turn workshop outline into slide deck
 - [x] **SB:** make Popcorn Flow stages for wall, plus "you are here"
 - [x] **SB:** make family printable: family name, crest, and words.
