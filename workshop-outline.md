@@ -124,8 +124,10 @@ give out A4 family printouts
 
 ## Generate problems<br>on stickies
 
-^ Put up ":point_up: you are here"
-5m
+^ 5m
+Put up ":point_up: you are here"
+generate lots, can be a bit silly
+your house
 
 ---
 
