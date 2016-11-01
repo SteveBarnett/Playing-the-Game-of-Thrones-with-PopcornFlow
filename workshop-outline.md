@@ -36,11 +36,11 @@ PopcornFlow posters go up
 
 ### Your facilitators
 
-## Austin @austin_fagan
 ## Steve @maxbarners
+## Austin @austin_fagan
 
-![](img/austin.jpg)
 ![](img/steve.jpg)
+![](img/austin.jpg)
 
 
 ---
