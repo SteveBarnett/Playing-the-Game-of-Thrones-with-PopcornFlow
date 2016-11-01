@@ -197,11 +197,6 @@ Should be rapid and focus on continual change.
 
 ---
 
-## More resources means more weighted against success.
-## Should be rapid and focus on continual change.
-
----
-
 ### **Committed**
 
 ## What's the *expected* outcome?
