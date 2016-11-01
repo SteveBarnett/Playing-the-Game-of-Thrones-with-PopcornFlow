@@ -162,19 +162,20 @@ We’ll measure it later
 
 ---
 
-### **Options**
+### **Possible Experiments**
 
-## Pick one to do first
+## At least 2 per option
+
 ^ 5m
+Move ":point_up: you are here"
+Grab an index card and a pen
 
 ---
 
 ### **Possible Experiments**
 
-## At least 2 per option
+## Pick one to do first
 
-^ Move ":point_up: you are here"
-Grab an index card and a pen
 ^ 1m
 
 ---
