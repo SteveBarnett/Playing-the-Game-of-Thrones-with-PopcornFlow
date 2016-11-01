@@ -14,7 +14,7 @@
 - [x] **SB:** make Popcorn Flow stages for wall, plus "you are here"
 - [x] **SB:** make family printable: family name, crest, and words.
 - [x] **SB:** make index cards example picture. Needs to be in 4, for: experiment, resources, expected outcome, actual outcome?
-- [ ] Print `houses-handouts.pdf` x 3 `outcomes.pdf` x 4, `popcorn-flow-printable-for-wall.pdf` x 1
+- [ ] Print `houses.pdf` x 3 `outcomes.pdf` x 4, `popcorn-flow-printable-for-wall.pdf` x 1
 - [x] Add times to speaker notes
 - [ ] **AF:** Closing reality tie-in: update `workshop-outline.md`
 - [ ] **AF:** Room setup
