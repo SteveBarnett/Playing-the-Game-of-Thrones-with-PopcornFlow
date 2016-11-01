@@ -150,12 +150,14 @@ Who, what?
 
 ### **Options**
 
-## Generate 3 options
-### What can you do with your resources?
-### What’s the impact?
+## Pick 2 resources
+## Generate an option
 
 ^ 5m
 Move ":point_up: you are here"
+What can you do with your resources?
+What’s the impact?
+Repeat until you have 3 options
 We’ll measure it later
 
 ---
