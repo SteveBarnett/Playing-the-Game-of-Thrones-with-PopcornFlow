@@ -214,22 +214,30 @@ Move ":point_up: you are here"
 
 ### **Ongoing**
 
+## Dot vote
 ## What's the shortest?
 ## What will let you learn the most, fastest?
 
 ^ 1m
+Move ":point_up: you are here"
+GoT, so about to go south
+Chaos monkey
 
 ---
 
 ### **Review**
 
 ## Move 1 table clockwise
-## Circle one of<br>the outcomes :grimacing:
 
 ^ 1m
 Move ":point_up: you are here"
 Handout outcomes sheet
-Back to your table
+
+---
+
+### **Review**
+
+## Circle one of<br>the outcomes :grimacing:
 
 ^ 3m
 
@@ -240,14 +248,16 @@ Back to your table
 ## Back to your table
 ## What's the *actual* outcome?
 
-^ Write in last spot on index card
+^ It didn't go so well (because GoT)
+Write in last spot on index card
+Must match your outcome
 
 ---
 
 ### **Review**
 
-## What are<br>the consequences of<br>this outcome?
-## Does it change<br>Problems or Options?
+## Consequences of<br>this outcome?
+## Changes the Problem<br>or the Options?
 
 ^ 3m
 Update your stickies
