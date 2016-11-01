@@ -139,9 +139,12 @@ your house
 
 ---
 
-## Observations
+### **Problems**
+## Observations?
 
 ^ 3m
+Chat
+Who, what?
 
 ---
 
