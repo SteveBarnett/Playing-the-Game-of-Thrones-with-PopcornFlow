@@ -50,6 +50,8 @@ PopcornFlow posters go up
 
 ![](img/got.jpg)
 
+^ TV show, not the books
+
 ---
 
 # Season 6
