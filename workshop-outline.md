@@ -4,7 +4,14 @@ theme: Fira, 0
 
 ---
 
-add intro activity here
+### "Oh, hai!" :wave:
+## 1. Your favourite Game of Thrones character :heart:
+## 2. Who will die next :skull:
+
+![](img/jamie.gif)
+
+^ 5m
+introduction activity
 
 ---
 
