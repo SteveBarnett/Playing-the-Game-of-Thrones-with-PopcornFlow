@@ -334,7 +334,7 @@ da boss
 
 ### **Faciliator feedback**
 
-## What's one thing we could do differently?
+## How would you have facilitated this differently?
 
 ![](img/austin.jpg)
 ![](img/steve.jpg)
