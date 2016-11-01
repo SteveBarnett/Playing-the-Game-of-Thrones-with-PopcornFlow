@@ -26,3 +26,4 @@
 - [x] **SB:** Add intro activity
 - [ ] **SB:** Re-check for TFTBOTR-y-ness
 - [ ] **SB:** Too long? Need to trim GoT stuff to focus more on Popcorn?
+- [x] **SB:** Add more bg images to deck

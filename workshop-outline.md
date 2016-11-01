@@ -2,11 +2,15 @@ theme: Fira, 0
 
 # PopcornFlow
 
+![](img/popcornflow.jpg)
+
 ---
 
 ### "Oh, hai!" :wave:
 ## 1. Your favourite Game of Thrones character :heart:
 ## 2. Who will die next :skull:
+
+![](img/jamie.jpg)
 
 ^ 5m
 introduction activity
@@ -62,6 +66,8 @@ Set the scene
 ---
 
 ## :rotating_light: #SPOILERS :rotating_light:
+
+![250%](img/spoiler-alert.jpg)
 
 ---
 
@@ -122,6 +128,8 @@ give out A4 family printouts
 
 ## Generate problems<br>on stickies
 
+![](img/stickies.jpg)
+
 ^ 5m
 Put up ":point_up: you are here"
 generate lots, can be a bit silly
@@ -133,12 +141,16 @@ your house
 
 ## Dot vote to pick one<br>to work on
 
+![](img/dot-vote.jpg)
+
 ^ 2m
 
 ---
 
 ### **Problems**
 ## Observations?
+
+![](img/observations.jpg)
 
 ^ 3m
 Chat
@@ -150,6 +162,8 @@ Who, what?
 
 ## Pick 2 resources
 ## Generate an option
+
+![](img/lightbulbs.jpg)
 
 ^ 5m
 Move ":point_up: you are here"
@@ -164,6 +178,8 @@ We’ll measure it later
 
 ## At least 2 per option
 
+![](img/experiments.jpg)
+
 ^ 5m
 Move ":point_up: you are here"
 Grab an index card and a pen
@@ -173,6 +189,8 @@ Grab an index card and a pen
 ### **Possible Experiments**
 
 ## Pick one to do first
+
+![](img/experiments.jpg)
 
 ^ 1m
 
@@ -199,6 +217,8 @@ Should be rapid and focus on continual change.
 
 ## What's the *expected* outcome?
 
+![fit](img/question-mark.png)
+
 ^ 1m
 Move ":point_up: you are here"
 
@@ -216,6 +236,8 @@ Move ":point_up: you are here"
 ## What's the shortest?
 ## What will let you learn the most, fastest?
 
+![](img/dot-vote.jpg)
+
 ^ 1m
 Move ":point_up: you are here"
 GoT, so about to go south
@@ -227,6 +249,8 @@ Chaos monkey
 
 ## Move 1 table clockwise
 
+![fit](img/clockwise.png)
+
 ^ 1m
 Move ":point_up: you are here"
 Handout outcomes sheet
@@ -237,6 +261,8 @@ Handout outcomes sheet
 
 ## Circle one of<br>the outcomes :grimacing:
 
+![](img/red-wedding.jpg)
+
 ^ 3m
 
 ---
@@ -245,6 +271,8 @@ Handout outcomes sheet
 
 ## Back to your table
 ## What's the *actual* outcome?
+
+![](img/boom.jpg)
 
 ^ It didn't go so well (because GoT)
 Write in last spot on index card
@@ -256,6 +284,8 @@ Must match your outcome
 
 ## Consequences of<br>this outcome?
 ## Changes the Problem<br>or the Options?
+
+![](img/mutiny.jpg)
 
 ^ 3m
 Update your stickies
