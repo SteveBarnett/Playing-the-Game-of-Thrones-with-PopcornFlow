@@ -106,7 +106,7 @@ Set the scene
 
 ---
 
-# Families
+# Acquaint thyself with... thyself
 
 ![](img/house-sigils/Lannister.png)
 ![](img/house-sigils/Targaryen.png)
