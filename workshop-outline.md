@@ -17,7 +17,7 @@ introduction activity
 
 ---
 
-# To The Wall!
+## To The Wall!
 
 ![original](img/the-wall.jpg)
 
@@ -30,7 +30,7 @@ PopcornFlow posters go up
 
 ---
 
-# Make a PopcornFlow board
+## Make a<br>PopcornFlow<br>board
 
 ![](img/popcornflow-board.jpg)
 
@@ -110,7 +110,7 @@ Set the scene
 
 ---
 
-# Acquaint thyself with... thyself
+## Acquaint thyself with... thyself
 
 ![](img/house-sigils/Lannister.png)
 ![](img/house-sigils/Targaryen.png)
@@ -334,7 +334,6 @@ Do own outcome
 
 ^ - Rapid explorations and experiments
 - Respond to change
-
 
 ---
 
