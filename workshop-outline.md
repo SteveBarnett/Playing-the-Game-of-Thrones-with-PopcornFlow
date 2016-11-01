@@ -19,8 +19,14 @@ introduction activity
 
 ![original](img/the-wall.jpg)
 
-^ Popcorn flow posters go up
-See popcorn-flow-poster-notes.md
+^ 5m
+PopcornFlow posters go up
+1. All about the power of **Options.**
+- Options come from **Problems.**
+- Which lead to **Possible Experiments**
+- Change is hard, so make it continuous: the rest.
+
+---
 
 ---
 
