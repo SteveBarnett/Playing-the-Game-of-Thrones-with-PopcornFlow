@@ -28,6 +28,10 @@ PopcornFlow posters go up
 
 ---
 
+# Make a PopcornFlow board
+
+![](img/popcornflow-board.jpg)
+
 ---
 
 ### Your facilitators
