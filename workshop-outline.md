@@ -58,7 +58,8 @@ PopcornFlow posters go up
 
 ![](img/season6.jpg)
 
-^ Set the scene
+^ 5m for whole thing
+Set the scene
 
 ---
 
@@ -186,6 +187,7 @@ Repeat until you've written on every poster
 
 ^ You'll use these in a minute
 2m
+^ >= 6m
 
 ---
 
@@ -208,7 +210,7 @@ Repeat until you've written on every poster
 
 ## Observations
 
-^ 5m
+^ 3m
 
 ---
 
@@ -218,7 +220,8 @@ Repeat until you've written on every poster
 ### What can you do with your resources?
 ### What’s the impact?
 
-^ Move ":point_up: you are here"
+^ 5m
+Move ":point_up: you are here"
 We’ll measure it later
 
 ---
@@ -226,6 +229,7 @@ We’ll measure it later
 ### **Options**
 
 ## Pick one to do first
+^ 5m
 
 ---
 
@@ -235,18 +239,21 @@ We’ll measure it later
 
 ^ Move ":point_up: you are here"
 Grab an index card and a pen
+^ 1m
 
 ---
 
 ![original](img/options-card-empty.jpg)
 
-^ four bits
+^ 1m
+four bits
 
 ---
 
 ![original](img/options-card-experiment-and-resources.jpg)
 
-^ "Yes and"
+^ 10m
+"Yes and"
 Okay to be vague (?)
 More resources means more weighted against success.
 Should be rapid and focus on continual change.
@@ -262,11 +269,14 @@ Should be rapid and focus on continual change.
 
 ## What's the *expected* outcome?
 
-^ Move ":point_up: you are here"
+^ 1m
+Move ":point_up: you are here"
 
 ---
 
 ![](img/options-card-expected-outcome.jpg)
+
+^ 2m
 
 ---
 
@@ -275,8 +285,7 @@ Should be rapid and focus on continual change.
 ## What's the shortest?
 ## What will let you learn the most, fastest?
 
-^ Move ":point_up: you are here"
-Another table chooses it for you? GoT style: little agency and bad things happen! Possibly not very Popcorn-y, but does have options as the focus.
+^ 1m
 
 ---
 
@@ -285,9 +294,12 @@ Another table chooses it for you? GoT style: little agency and bad things happen
 ## Move 1 table clockwise
 ## Circle one of<br>the outcomes :grimacing:
 
-^ Move ":point_up: you are here"
+^ 1m
+Move ":point_up: you are here"
 Handout outcomes sheet
 Back to your table
+
+^ 3m
 
 ---
 
@@ -305,6 +317,8 @@ Back to your table
 ## What are<br>the consequences of<br>this outcome?
 ## Does it change<br>Problems or Options?
 
+^ 3m
+Update your stickies
 
 ---
 
