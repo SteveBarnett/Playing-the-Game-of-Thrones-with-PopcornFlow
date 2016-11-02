@@ -8,22 +8,24 @@
 - [x] **AF (we should try and keep this as simple as possible):** need an inventory counter? some way to track resources used?
 - [x] **AF:** one short sentence recap for each fam
   - [x] **SB:** make slide for one short sentence recap for each fam
-  - [ ] **SB:** make handout of: house, words, recap, location, resources
-  - [ ] **AF:** what should go in location and resources for each house
+  - [x] **SB:** make handout of: house, words, recap, location, resources
+  - [x] **AF:** what should go in location and resources for each house
 - [x] **SB:** turn workshop outline into slide deck
 - [x] **SB:** make Popcorn Flow stages for wall, plus "you are here"
 - [x] **SB:** make family printable: family name, crest, and words.
 - [x] **SB:** make index cards example picture. Needs to be in 4, for: experiment, resources, expected outcome, actual outcome?
-- [ ] Print `houses.pdf` x 3 `outcomes.pdf` x 4, `popcorn-flow-printable-for-wall.pdf` x 1
+- [x] Print `houses.pdf` x 3 `outcomes.pdf` x 4, `popcorn-flow-printable-for-wall.pdf` x 1
 - [x] Add times to speaker notes
-- [ ] **AF:** Closing reality tie-in: update `workshop-outline.md`
+- [x] **AF:** Closing reality tie-in: update `workshop-outline.md`
 - [ ] **AF:** Room setup
 - [x] **SB:** Bigger text on outcomes handout
-- [ ] **SB:** Fix up ending: the second run through the popcorn
-- [ ] **AF:** Set time for dry run
-  - [ ] **AF, SB:** Do dry run
+- [x] **SB:** Fix up ending: the second run through the popcorn
+- [x] **AF:** Set time for dry run
+  - [x] **AF, SB:** Do dry run
 - [x] **SB:** Clarify putting up of Popcorn poster
 - [x] **SB:** Add intro activity
-- [ ] **SB:** Re-check for TFTBOTR-y-ness
-- [ ] **SB:** Too long? Need to trim GoT stuff to focus more on Popcorn?
+- [x] **SB:** Re-check for TFTBOTR-y-ness
+- [x] **SB:** Too long? Need to trim GoT stuff to focus more on Popcorn?
 - [x] **SB:** Add more bg images to deck
+- [ ] **AF:** make recap more situational
+- [ ] **AF:** add steel cache to resources
