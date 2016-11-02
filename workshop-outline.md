@@ -388,5 +388,12 @@ these are some places people have used it
 
 ## How would you have facilitated this differently?
 
-![](img/austin.jpg)
+---
+
+### Thank you!
+
+## Steve @maxbarners
+## Austin @austin_fagan
+
 ![](img/steve.jpg)
+![](img/austin.jpg)
