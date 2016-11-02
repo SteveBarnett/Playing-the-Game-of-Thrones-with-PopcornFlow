@@ -4,16 +4,43 @@ theme: Fira, 0
 
 ![](img/popcornflow.jpg)
 
+^ You'll learn:
+- what the steps of popcornflow
+- about the power of (seeing things as) options
+- where and when you could apply it back at the office
+
+---
+
+![](img/got.jpg)
+
+^ via the medium of Game of Thrones
+TV show, not the books
+Who's familiar with it?
+
+---
+
+![](img/map.jpg)
+
+^ Westeros and Essos
+
+---
+
+![](img/throne.jpg)
+
+^ The Throne
+This is what you will be Popcorning For
+
 ---
 
 ### "Oh, hai!" :wave:
-## 1. Your favourite Game of Thrones character :heart:
+## 1. Favourite Game of Thrones character :heart:
 ## 2. Who will die next :skull:
 
 ![](img/jamie.jpg)
 
 ^ 5m
-introduction activity
+If you are familiar, tell someone
+If you're not, ask someone
 
 ---
 
@@ -28,12 +55,6 @@ introduction activity
 ^ 1m
 - where you work, what you do
 - fave character, who dies next
-
----
-
-![](img/got.jpg)
-
-^ TV show, not the books
 
 ---
 
@@ -111,7 +132,7 @@ give out A4 family printouts
 
 ^ 5m
 PopcornFlow posters go up
-1. All about the power of **Options.**
+1. All about the power of **Options.** <-- the real value
 - Options come from **Problems.**
 - Which lead to **Possible Experiments**
 - Change is hard, so make it continuous: the rest.
@@ -347,6 +368,19 @@ We'll pick your outcome
 ^ Claudio Perrone
 Agile Sensei
 da boss
+
+---
+
+### **Use it!**
+
+## User stories
+## Retrospectives
+## For a spike
+
+![](img/popcornflow.jpg)
+
+^ for your process, team
+these are some places people have used it
 
 ---
 
