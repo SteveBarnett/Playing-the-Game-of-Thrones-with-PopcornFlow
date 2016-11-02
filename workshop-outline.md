@@ -17,25 +17,6 @@ introduction activity
 
 ---
 
-## To The Wall!
-
-![original](img/the-wall.jpg)
-
-^ 5m
-PopcornFlow posters go up
-1. All about the power of **Options.**
-- Options come from **Problems.**
-- Which lead to **Possible Experiments**
-- Change is hard, so make it continuous: the rest.
-
----
-
-## Make a<br>PopcornFlow<br>board
-
-![](img/popcornflow-board.jpg)
-
----
-
 ### Your facilitators
 
 ## Steve @maxbarners
@@ -124,22 +105,42 @@ give out A4 family printouts
 
 ---
 
-### **Problems**
+## To The Wall!
 
-## Generate problems<br>on stickies
-
-![](img/stickies.jpg)
+![original](img/the-wall.jpg)
 
 ^ 5m
-Put up ":point_up: you are here"
-generate lots, can be a bit silly
-your house
+PopcornFlow posters go up
+1. All about the power of **Options.**
+- Options come from **Problems.**
+- Which lead to **Possible Experiments**
+- Change is hard, so make it continuous: the rest.
+
+---
+
+## Make a<br>PopcornFlow<br>board
+
+![](img/popcornflow-board.jpg)
 
 ---
 
 ### **Problems**
 
-## Dot vote to pick one<br>to work on
+## Generate problems
+## 1 per sticky
+
+![](img/stickies.jpg)
+
+^ 5m
+Put up ":point_up: you are here"
+What's stopping you from taking the throne?
+generate lots, can be a bit silly
+
+---
+
+### **Problems**
+
+## Dot vote (2 per person)<br>to pick one<br>to work on
 
 ![](img/dot-vote.jpg)
 
@@ -158,10 +159,10 @@ Who, what?
 
 ---
 
-### **Options**
+### **1st Option**
 
-## Pick 2 resources
 ## Generate an option
+## Think about<br>your resources
 
 ![](img/lightbulbs.jpg)
 
@@ -169,30 +170,31 @@ Who, what?
 Move ":point_up: you are here"
 What can you do with your resources?
 What’s the impact?
-Repeat until you have 3 options
 We’ll measure it later
 
 ---
 
-### **Possible Experiments**
+### **2nd Option**
 
-## At least 2 per option
+## Generate an option
+## Think about<br>your resources
+
+---
+
+### **3rd Option**
+
+## Generate an option
+## Think about<br>your resources
+
+---
+
+## **Possible Experiments**
 
 ![](img/experiments.jpg)
 
 ^ 5m
 Move ":point_up: you are here"
 Grab an index card and a pen
-
----
-
-### **Possible Experiments**
-
-## Pick one to do first
-
-![](img/experiments.jpg)
-
-^ 1m
 
 ---
 
@@ -206,10 +208,11 @@ four bits
 ![original](img/options-card-experiment-and-resources.jpg)
 
 ^ 10m
-"Yes and"
-Okay to be vague (?)
-More resources means more weighted against success.
+1 per option
+1 experiment per card
+Leave bottom half blank.
 Should be rapid and focus on continual change.
+Be specific
 
 ---
 
@@ -232,7 +235,7 @@ Move ":point_up: you are here"
 
 ### **Ongoing**
 
-## Dot vote
+## Dot vote (2 per person)
 ## What's the shortest?
 ## What will let you learn the most, fastest?
 
@@ -304,7 +307,7 @@ Back to your board, start at options
 Generate more options
 Pick one to work one (can be old one)
 Pick experiment
-Do own outcome
+We'll pick your outcome
 
 ---
 
